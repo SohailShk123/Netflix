@@ -4,8 +4,6 @@ import { Header } from "./index";
 const Login = () => {
   return (
     <div>
-      gfjgjh
-      lkjksadjf
       <Header />
       <div className="relative h-screen">
         {/* Background Image */}
